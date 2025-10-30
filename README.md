@@ -1,9 +1,9 @@
 ## Olá! eu sou o Hamilton Junior 👋
 
-- 🔭 Estou trabalhando atualmente de modo autônomo
-- 🌱 Cursando ciência da computação
-- 📫 Contate-me pelo e-mail: juniorsilviosp@gmail.com
-- 😄 Pronouns: ele/dele
+🔭 Atualmente atuando como freelancer/autônomo
+🌱 Cursando Ciência da Computação
+📫 Entre em contato pelo e-mail: juniorsilviosp@gmail.com
+😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
